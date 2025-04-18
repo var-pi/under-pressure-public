@@ -1,7 +1,8 @@
 # under-pressure
 
 > Projekti põhieesmärgiks on võimaldada õpilastel jälgida, kuidas muutub nende stressi tase erinevate õppeainete suhtes.
-* **Veebileht**: [under-pressure.onrender.com](https://under-pressure.onrender.com/)
+* **_Frontend_**: [under-pressure](https://github.com/var-pi/under-pressure)
+* **_Backend_**: [under-pressure-backend](https://github.com/var-pi/under-pressure-backend)
 * **Jaga soovitusi**: [github.com/var-pi/under-pressure-public/issues](https://github.com/var-pi/under-pressure-public/issues)
 
 ### Olemas
